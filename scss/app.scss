@@ -79,11 +79,16 @@
     font-weight:bold;
 }
 
+.italic {
+    font-style: italic;
+}
+
 .subhead {
     font-style:italic;
     font-size:1.25rem;
     color:#999;
     margin-top:-1rem;
+    margin-bottom:0;
 }
 .pullquote {
     font:italic 1.5rem serif;

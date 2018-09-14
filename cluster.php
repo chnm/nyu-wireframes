@@ -29,12 +29,35 @@
     <div class="medium-8 cell">
         <h3><a href="article.php">Article Title</a></h3>
         <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
         <h3><a href="article.php">Article Title</a></h3>
+        <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
         <h3><a href="article.php">Article Title</a></h3>
+        <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
         <h3><a href="article.php">Article Title</a></h3>
+        <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
+        <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <h3><a href="article.php">Article Title</a></h3>
+        <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
+        <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <h3><a href="article.php">Article Title</a></h3>
+        <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
+        <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <h3><a href="article.php">Article Title</a></h3>
+        <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
+        <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <h3><a href="article.php">Article Title</a></h3>
+        <p class="subhead">Subheading for the Article</p>
+        <p class="italic">January 1, 2000</p>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
     </div>
 
