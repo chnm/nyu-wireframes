@@ -1,4 +1,40 @@
-<?php include('header.php'); ?>
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Undercover Reporting</title>
+    <link rel="stylesheet" href="css/app.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+  <div id="header">
+    <div class="grid-container">
+      <div class="grid-x grid-padding-x">
+
+        <div class="medium-6 cell">
+          <h1><a href="index.php">Undercover Reporting</a></h1>
+        </div>
+        <div id="search" class="medium-3 medium-offset-3 cell">
+          <input type="text" placeholder="Search Bar">
+        </div>
+
+        <div class="medium-12 column">
+          <ul class="menu">
+            <li class="nav-item"><a href="cluster-list.php">Reports</a></li>
+            <li class="nav-item active"><a href="article-list.php">Primary Sources</a></li>
+            <li class="nav-item"><a href="about.php">About</a></li>
+            <!-- <li class="nav-item"><a href="how-to.php">How To Use</a></li>
+            <li class="nav-item"><a href="rights.php">Rights</a></li> -->
+          </ul>
+        </div>
+      </div>
+      </div>
+      </div>
+      <div class="grid-container" id="content">
+
 
 <h2>Browse Articles</h2>
 
@@ -41,103 +77,70 @@
 
 <div class="grid-x grid-padding-x">
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell article-entry">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
-    <div class="medium-2 cell">
-        <img src="https://via.placeholder.com/200x200?text=ARTICLE+IMAGE" alt="">
-    </div>
-
-    <div class="medium-10 cell">
+    <div class="medium-12 cell">
         <h3><a href="article.php">Article Title</a></h3>
         <p>Blurb about this article. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio omnis molestiae voluptates magni vel. Labore doloremque vel placeat iure architecto quidem eos nulla ut tempora, optio veritatis laboriosam iusto rem!</p>
+        <p><span class="italic">New York Times</span> January 1, 2018</p>
     </div>
 
 </div>

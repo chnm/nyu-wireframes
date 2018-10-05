@@ -1,6 +1,7 @@
+
     <div class="footer grid-x grid-padding-x">
         <div class="cell medium-4">
-            <img src="https://via.placeholder.com/600x150?text=NYU+LOGO" alt="">
+            <a href="https://www.nyu.edu/"><img src="img/nyu_long_black.png" alt=""></a>
         </div>
         <div class="cell medium-8">
             <p>Some footer text. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio omnis, in nulla esse minima saepe, ullam error quis, cum cupiditate sapiente cumque ea quam doloremque tempore tenetur iusto hic aliquid.</p>

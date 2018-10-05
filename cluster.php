@@ -1,10 +1,10 @@
 <?php include('header.php'); ?>
 
-<h2>Cluster Title</h2>
+<h2>Report Title</h2>
 
 <div class="grid-x grid-padding-x">
     <div class="medium-4 cell">
-        <img src="https://via.placeholder.com/400x400?text=CLUSTER+IMAGE" alt="">
+        <img src="img/inside-walter-reed.jpg" alt="">
         <h4>Effects and Outcomes</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis adipisci, consequuntur placeat, neque ex iste quo facere ea, illum culpa eum ducimus numquam praesentium similique fugit velit doloremque voluptatibus ullam.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, obcaecati neque. Facere consequatur animi distinctio cupiditate repellendus, cum ut quidem aliquam quae velit sed, quam reiciendis aut alias maxime ullam!</p>
         <h4>Authors</h4>
@@ -18,10 +18,10 @@
         <p class="metadata"><a href="#">Link Three</a></p>
         <p class="metadata"><a href="#">Link Four</a></p>
         <h4>Tags</h4>
-        <p class="metadata"><a href="#">Tag One</a></p>
-        <p class="metadata"><a href="#">Tag Two</a></p>
-        <p class="metadata"><a href="#">Tag Three</a></p>
-        <p class="metadata"><a href="#">Tag Four</a></p>
+        <p class="metadata"><a class="button" href="#">Tag One</a></p>
+        <p class="metadata"><a class="button" href="#">Tag Two</a></p>
+        <p class="metadata"><a class="button" href="#">Tag Three</a></p>
+        <p class="metadata"><a class="button" href="#">Tag Four</a></p>
         <h4>Media History</h4>
         <p class="metadata">The reporting was intended for these media types: Newspaper</p>
     </div>

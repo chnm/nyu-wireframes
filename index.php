@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
   <div class="grid-x grid-padding-x">
-    <img src="https://via.placeholder.com/1400x300?text=SLIDER+OF+FEATURED+CLUSTERS" alt="">
+    <img src="img/Suffrage1.png" alt="">
   </div>
 
   <div class="grid-x grid-padding-x">
