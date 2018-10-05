@@ -1,7 +1,9 @@
 <?php include('header.php'); ?>
 
   <div class="grid-x grid-padding-x">
+    <div class="medium-12 cell">
     <img src="img/Suffrage1.png" alt="">
+    </div>
   </div>
 
   <div class="grid-x grid-padding-x">
